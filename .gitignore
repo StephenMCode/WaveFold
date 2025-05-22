@@ -1,0 +1,54 @@
+# Roblox Studio Files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Roblox Studio Lock Files
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo Generated Files
+/sourcemap.json
+/build/
+
+# Development Tools
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js (for development tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Backup Files
+*.bak
+*.backup
+
+# Test Coverage
+coverage/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
